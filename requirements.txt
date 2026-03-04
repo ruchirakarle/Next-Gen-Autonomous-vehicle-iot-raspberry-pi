@@ -1,0 +1,28 @@
+# Core Computer Vision
+opencv-python
+
+# Raspberry Pi GPIO Control
+RPi.GPIO
+
+# Numerical Computing
+numpy
+
+# Camera Module Support (Raspberry Pi)
+picamera
+
+# LCD Display Support
+RPLCD
+
+# DHT11 Sensor (Temperature & Humidity)
+Adafruit-DHT
+
+# Database (if required)
+mysql-connector-python
+
+# HTTP Communication
+requests
+
+# System Utilities (built-in, listed for reference)
+# time
+# os
+# sys
