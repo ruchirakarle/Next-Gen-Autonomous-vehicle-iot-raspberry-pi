@@ -107,10 +107,10 @@ python san2.py
 
 ---
 
-## Team
+## Author
 
-| Name | Role |
-| Ruchira Ravindra Karle | Developer & Researcher |
+Ruchira Ravindra Karle
+LinkedIn : linkedin.com/in/ruchira-karle
 
 
 ---
